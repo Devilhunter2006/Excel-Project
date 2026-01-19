@@ -107,18 +107,7 @@ Users can filter data by city, view total sales, target hit percentage, and how 
 
 ---
 
-## 🖼️ Screenshots
 
-![Sales Dashboard Preview](./dashboard.png)
-
-*(Replace `dashboard.png` with the actual image filename if needed)*
-
----
-
-## 📄 License
-
-This project is open for learning and personal use.
-You may modify and reuse it for educational or internal purposes.
 
 
 
