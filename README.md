@@ -110,5 +110,3 @@ Users can filter data by city, view total sales, target hit percentage, and how 
 
 
 
-
-Just say the word 👍
